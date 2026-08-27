@@ -52,4 +52,16 @@ class Solution {
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sravanthikottakota21-web/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/sravanthikottakota21-web/leetcode-solutions/tree/master/0412-fizz-buzz) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/sravanthikottakota21-web/leetcode-solutions/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/sravanthikottakota21-web/leetcode-solutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
