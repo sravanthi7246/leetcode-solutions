@@ -40,6 +40,7 @@ class Solution {
 | [0042-trapping-rain-water](https://github.com/sravanthikottakota21-web/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/sravanthikottakota21-web/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sravanthikottakota21-web/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/sravanthikottakota21-web/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sravanthikottakota21-web/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0908-middle-of-the-linked-list](https://github.com/sravanthikottakota21-web/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Binary Search
@@ -103,10 +104,19 @@ class Solution {
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/sravanthikottakota21-web/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/sravanthikottakota21-web/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/sravanthikottakota21-web/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/sravanthikottakota21-web/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/sravanthikottakota21-web/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/sravanthikottakota21-web/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
