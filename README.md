@@ -21,6 +21,7 @@ class Solution {
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sravanthikottakota21-web/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/sravanthikottakota21-web/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/sravanthikottakota21-web/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sravanthikottakota21-web/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -122,6 +123,7 @@ class Solution {
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sravanthikottakota21-web/leetcode-solutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/sravanthikottakota21-web/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/sravanthikottakota21-web/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sravanthikottakota21-web/leetcode-solutions/tree/master/0242-valid-anagram) |
