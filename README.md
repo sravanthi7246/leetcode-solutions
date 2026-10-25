@@ -80,6 +80,7 @@ class Solution {
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sravanthikottakota21-web/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/sravanthikottakota21-web/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/sravanthikottakota21-web/leetcode-solutions/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -95,6 +96,7 @@ class Solution {
 | [0075-sort-colors](https://github.com/sravanthikottakota21-web/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sravanthikottakota21-web/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/sravanthikottakota21-web/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sravanthikottakota21-web/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Quicksort
 |  |
 | ------- |
@@ -122,6 +124,7 @@ class Solution {
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sravanthikottakota21-web/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/sravanthikottakota21-web/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sravanthikottakota21-web/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
