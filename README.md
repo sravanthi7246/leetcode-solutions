@@ -32,6 +32,7 @@ class Solution {
 | [0088-merge-sorted-array](https://github.com/sravanthikottakota21-web/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sravanthikottakota21-web/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sravanthikottakota21-web/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/sravanthikottakota21-web/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/sravanthikottakota21-web/leetcode-solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/sravanthikottakota21-web/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 ## Two Pointers
@@ -93,6 +94,7 @@ class Solution {
 | ------- |
 | [0075-sort-colors](https://github.com/sravanthikottakota21-web/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sravanthikottakota21-web/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/sravanthikottakota21-web/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Quicksort
 |  |
 | ------- |
@@ -119,6 +121,7 @@ class Solution {
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sravanthikottakota21-web/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/sravanthikottakota21-web/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
