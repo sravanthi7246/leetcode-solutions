@@ -139,4 +139,20 @@ class Solution {
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sravanthikottakota21-web/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/sravanthikottakota21-web/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/sravanthikottakota21-web/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/sravanthikottakota21-web/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/sravanthikottakota21-web/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
